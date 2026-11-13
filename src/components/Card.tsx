@@ -51,12 +51,12 @@ export function Card({ card, location, onDoubleClick }: CardProps) {
 
   return (
     <div className={containerClasses} ref={ref} onDoubleClick={onDoubleClick}>
-      <div className="flex justify-between">
+      <div className="flex justify-between items-center">
         <span className={numberClasses}>{cardSymbol}</span>
-        <SuitSymbol className="w-2 sm:w-3" />
+        <SuitSymbol className="w-2 h-2 sm:w-3.5 sm:h-3.5" />
       </div>
       <div className="flex justify-center">
-        <SuitSymbol className="w-5 sm:w-10" />
+        <SuitSymbol className="w-5 h-5 sm:w-10 sm:h-10" />
       </div>
     </div>
   )

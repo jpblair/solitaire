@@ -1,3 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="439 90 256 373">
-    <path d="M567 90.004c-38.7 64.396-82.264 126.344-126.524 185.84 46.345 59.495 90.605 121.442 126.522 185.84 37.308-65.623 78.092-128.183 126.522-185.84-47.04-59.496-89.91-122.668-126.522-185.84z" style="fill:red;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="371.67999"
+   width="253.04401"
+   viewBox="0 0 250 370"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="diamonds.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.73106061"
+     inkscape:cx="-32.829016"
+     inkscape:cy="437.72021"
+     inkscape:window-width="1920"
+     inkscape:window-height="943"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 126.524,0 C 87.824,64.396 44.26,126.344 0,185.84 46.345,245.335 90.605,307.282 126.522,371.68 163.83,306.057 204.614,243.497 253.044,185.84 206.004,126.344 163.134,63.172 126.522,0 Z"
+     style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="path4" />
 </svg>
