@@ -327,7 +327,7 @@ function App() {
           />
         </div>
         <footer>
-          <button className="bg-blue-400" onClick={newGame}>
+          <button className="bg-blue-400 border-blue-500" onClick={newGame}>
             Start New Game
           </button>
         </footer>
